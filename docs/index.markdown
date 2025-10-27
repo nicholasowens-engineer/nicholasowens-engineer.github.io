@@ -1,6 +1,8 @@
 ---
 layout: home
 title: Home
+permalink: /home/
+published: true
 ---
 
-# This is a placeholder
+# Home
