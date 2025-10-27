@@ -2,17 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<!-- Circular profile picture -->
+<p align="center">
+  <img src="/docs/images/profile.jpg" alt="Profile Picture" style="width:150px;height:150px;border-radius:50%;">
+</p>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# About Me
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hi, I'm Nick Owens. I'm a mechanical engineering and computer science student at Southern Illinois University. My current interests include digital engineering, robotics, computer-aided design, and computational fluid dynamics. I participate in my local chapter of the American Society of Mechanical Engineers and the chassis design subteam on my school's Formula SAE project team. When I'm not working on classes, research, or projects, I am usually hiking, drawing, building a Lego set, or cuddling with my dogs.
